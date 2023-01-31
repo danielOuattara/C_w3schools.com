@@ -1,0 +1,3 @@
+Some text
+A new text to write to file. Does it append OR overwrite to exicting content
+Final append.
