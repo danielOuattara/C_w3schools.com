@@ -1,0 +1,1 @@
+A content added to newText.txt
